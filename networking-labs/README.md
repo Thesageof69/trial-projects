@@ -1,5 +1,7 @@
 # Networking Labs
 
-This folder is for networking practice, Cisco Packet Tracer exercises and configuration notes.
+This folder is reserved for networking practice and Cisco Packet Tracer exercises.
 
-Each lab should include its objective, topology, configuration steps and the skills demonstrated.
+- [network-projects](https://github.com/Thesageof69/network-projects) – Cisco Packet Tracer networking labs and configuration projects.
+
+The networking repository remains separate as a professional skills project.
